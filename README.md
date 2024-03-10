@@ -6,8 +6,9 @@
 
 > "JESUSISKING is poised to be a landmark project, setting new standards in its field. The dedication to this project is unwavering, with a clear focus on delivering unparalleled user experiences, robust functionality, and cutting-edge features. Stay tuned for updates as we progress on this exciting journey."
 
-## TECHSTACK
+## MATEUSZ KRETKOWSKI'S TECHSTACK
 - REACT
+- TYPESCRIPT
 - CSS
 - FIREBASE
 - NODEJS
