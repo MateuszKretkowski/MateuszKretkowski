@@ -1,8 +1,8 @@
 # **MATEUSZ KRETKOWSKI**
 
-## CREATOR OF JESUSISKING
+## CREATOR OF JESUSISKING, YEDIDTHIS, EGGlimbing.
 
-> "Currently dedicated to leading the development of EGGThrolling, a small-sized Video Game aiming to Develop skills for future ambitious Projects."
+> "Currently dedicated to leading the development of EGGlimbing, a small-sized Video Game aiming to Develop skills for future ambitious Projects."
 > 
 ## MATEUSZ KRETKOWSKI'S TECHSTACK
 - REACT
@@ -10,4 +10,5 @@
 - FIREBASE
 - NODEJS
 - C#
+- C++
 - PYTHON
