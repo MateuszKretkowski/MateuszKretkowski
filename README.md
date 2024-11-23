@@ -1,8 +1,8 @@
 # **MATEUSZ KRETKOWSKI**
 
-## CREATOR OF JESUSISKING, YEDIDTHIS, Jumpighty.
+## CREATOR OF _(%@#!%)
 
-> "Currently dedicated to leading the development of Jumpighty, a small-sized Video Game aiming to Develop skills for future ambitious Projects."
+> "Currently dedicated to leading the development of PROJECT_DG"
 > 
 ## MATEUSZ KRETKOWSKI'S TECHSTACK
 - REACT
