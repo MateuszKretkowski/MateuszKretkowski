@@ -1,6 +1,6 @@
 # **MATEUSZ KRETKOWSKI**
 
-## CREATOR OF _(%@#!%)
+## CREATOR OF TEXTUREMAPPINGPROJECT, TEXTUREMAPASSISTANT, and more..
 
 > "Currently dedicated to leading the development of PROJECT_DG"
 > 
