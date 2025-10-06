@@ -6,7 +6,7 @@
 
 🔗 **Brackeys Gamejam 2025.2 "Risk it for the Biscuit"**
 
-![Risk it for the Biscuit](https://user-images.githubusercontent.com/89569389/281639918-43833a6f-124b-4b19-869f-3957a07bf535.png)
+![Risk it for the Biscuit](68747470733a2f2f696d672e697463682e7a6f6e652f6157316e4c7a49794f54557a4d7a55354c6e42755a773d3d2f33313578323530253233632f4a31437462682e706e67.png)
 
 ## MATEUSZ KRETKOWSKI'S TECHSTACK
 - PYTHON
