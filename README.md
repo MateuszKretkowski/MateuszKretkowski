@@ -1,6 +1,6 @@
 # Hi, I'm *Mateusz Kretkowski*:
-### I enjoy the challenge of building software from the ground up, from low-level game engines to full-stack applications.
----
+### I truly love the process of crafting software from scratch, whether it's diving deep into a low-level game engine or architecting a full-stack application.
+> ---
 ## Projects:
 ### C_SDL3_Game_Engine
 > My biggest current project: creating a 3D game engine from scratch in C using the SDL3 library. Exploring rendering, state management, and software architecture.
