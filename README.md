@@ -1,5 +1,5 @@
 # Hi, I'm *Mateusz Kretkowski*:
-### I truly love the process of crafting software from scratch, whether it's diving deep into a low-level game engine or architecting a full-stack application.
+### I'm passionate about building software from scratch. Whether that's working on a low-level game engine or designing a full-stack application.
 > ---
 ## Projects:
 ### C_SDL3_Game_Engine
