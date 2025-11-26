@@ -1,4 +1,4 @@
-# Hi, I'm *Mateusz Kretkowski*:
+# Hi, I'm Mateusz Kretkowski:
 ### I'm passionate about building software from scratch. Whether that's working on a low-level game engine or developing a full-stack application.
 > ---
 ## Projects:
